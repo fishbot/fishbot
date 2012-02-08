@@ -1,0 +1,4 @@
+WOW fishing bot
+Compatible with latest version of WOW
+This bot is not embeded into wow.exe process and not detected by warden.
+To compile you need VS, .net, C# and OpenSVSharp. Some binaries have already in project.
